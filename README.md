@@ -2,7 +2,7 @@
 
 Este projeto contém três atividades principais da Aula 6, cada uma explorando um conceito diferente em OpenGL, além de um arquivo bônus com uma visualização artística.
 
-![Logo](assets/thanks-from-psychedelic.png)
+![Logo](thanks-from-psychedelic.png)
 
 ---
 
